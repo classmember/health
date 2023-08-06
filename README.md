@@ -172,6 +172,8 @@ This section delves into the intricate nuances of clinical nutrition, emphasizin
 
 ### Nutrition and Metabolism
 
+![Fruit](img/pexels-jane-doan-1128678.jpg "Fruit from https://www.pexels.com/photo/assorted-sliced-fruits-1128678/")
+
 Nutrition and metabolism are intricately connected processes in the body. Essentially, nutrition refers to the intake and utilization of food substances essential for growth and the maintenance of life. Metabolism, on the other hand, is the set of life-sustaining chemical transformations within the cells of living organisms, converting nutrients into energy and building blocks for proteins, lipids, nucleic acids, and some carbohydrates.
 
 #### Metabolism

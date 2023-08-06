@@ -160,3 +160,164 @@ General Health Information
       - [Behavioral Changes](https://github.com/classmember/health#behavioral-changes)
       - [Medication and Surgery](https://github.com/classmember/health#medication-and-surgery)
       - [Psychological Support](https://github.com/classmember/health#psychological-support)
+
+---
+
+# Topic:
+## Advanced Clinical nutrition and diagnosis: PhD guide
+# Objectives:
+## Understand the principles of clinical nutrition and diagnosis.
+### Nutrition and Metabolism
+#### Metabolism
+#### Nutrition
+#### Nutrient Metabolism
+#### Nutrient Transport
+#### Nutrient Regulation
+### Nutrition Assessment
+#### Nutrition Screening
+#### Nutrition Assessment
+#### Nutrition Diagnosis
+#### Nutrition Intervention
+#### Nutrition Monitoring and Evaluation
+### Nutrition Diagnosis
+#### Nutrition Assessment
+#### Nutrition Diagnosis
+#### Nutrition Intervention
+#### Nutrition Monitoring and Evaluation
+#### Nutrition Education
+### Nutrition Intervention
+#### Nutrition Education
+#### Nutrition Counseling
+#### Nutrition Screening
+#### Nutrition Monitoring
+#### Nutrition Support
+### Nutrition Monitoring and Evaluation
+#### Nutrition Surveillance
+#### Nutrition Assessment
+#### Nutrition Intervention
+#### Nutrition Evaluation
+#### Nutrition Program Monitoring
+## Develop an understanding of the role of nutrition in the prevention and treatment of disease.
+### The role of nutrition in the prevention of disease
+#### The role of nutrition in the prevention of cardiovascular disease
+#### The role of nutrition in the prevention of cancer
+#### The role of nutrition in the prevention of diabetes
+#### The role of nutrition in the prevention of obesity
+#### The role of nutrition in the prevention of other chronic diseases
+### The role of nutrition in the treatment of disease
+#### The role of nutrition in the prevention of disease
+#### The role of nutrition in the management of chronic diseases
+#### The role of nutrition in the treatment of acute diseases
+#### The role of nutrition in the recovery from illness
+#### The role of nutrition in the maintenance of health
+### Nutrition and the immune system
+#### Nutrition and the immune system1 an overview
+#### Nutrition and the immune system1 vitamins and minerals
+#### Nutrition and the immune system1 dietary fats
+#### Nutrition and the immune system1 probiotics and prebiotics
+#### Nutrition and the immune system1 antioxidants
+### Nutrition and chronic diseases
+#### Nutrition and cardiovascular disease
+#### Nutrition and diabetes
+#### Nutrition and cancer
+#### Nutrition and obesity
+#### Nutrition and kidney disease
+### Nutrition and mental health
+#### The role of nutrition in mental health
+#### Nutrition and mental health disorders
+#### Nutrition and mental health in children
+#### Nutrition and mental health in the elderly
+#### Nutrition and mental health in the workplace
+## Develop an understanding of the role of nutrition in the management of chronic diseases.
+### The role of nutrition in the prevention of chronic diseases.
+#### The role of nutrition in the prevention of cardiovascular disease.
+#### The role of nutrition in the prevention of diabetes.
+#### The role of nutrition in the prevention of obesity.
+#### The role of nutrition in the prevention of cancer.
+#### The role of nutrition in the prevention of other chronic diseases.
+### The role of nutrition in the management of chronic diseases.
+#### The role of nutrition in the prevention of chronic diseases.
+#### The role of nutrition in the treatment of chronic diseases.
+#### The role of nutrition in the management of chronic diseases.
+#### The impact of nutrition on the quality of life of patients with chronic diseases.
+#### The role of nutrition in the long-term management of chronic diseases.
+### Nutrition and chronic disease risk factors.
+#### Dietary patterns and chronic disease risk
+#### Nutrition and obesity
+#### Nutrition and cardiovascular disease risk
+#### Nutrition and cancer risk
+#### Nutrition and diabetes risk
+### Nutrition and chronic disease management strategies.
+#### Nutrition and chronic disease prevention
+#### Nutrition and chronic disease management
+#### Nutrition and chronic disease monitoring
+#### Nutrition and chronic disease treatment
+#### Nutrition and chronic disease rehabilitation
+### Nutrition and chronic disease outcomes.
+#### The role of nutrition in the prevention of chronic diseases.
+#### The impact of nutrition on the progression of chronic diseases.
+#### The role of nutrition in the management of chronic diseases.
+#### The impact of nutrition on the quality of life of individuals with chronic diseases.
+#### The role of nutrition in the treatment of chronic diseases.
+## Develop an understanding of the role of nutrition in the promotion of health and well-being.
+### The role of nutrition in the prevention of chronic diseases
+#### The role of nutrition in the prevention of cardiovascular disease
+#### The role of nutrition in the prevention of type 2 diabetes
+#### The role of nutrition in the prevention of obesity
+#### The role of nutrition in the prevention of cancer
+#### The role of nutrition in the prevention of other chronic diseases
+### The role of nutrition in the promotion of physical health
+#### The importance of a balanced diet
+#### The role of vitamins and minerals in physical health
+#### The effects of unhealthy eating habits
+#### The impact of nutrition on physical activity
+#### The role of nutrition in disease prevention
+### The role of nutrition in the promotion of mental health
+#### The role of nutrition in the prevention of mental health disorders
+#### The role of nutrition in the treatment of mental health disorders
+#### The role of nutrition in the management of mental health symptoms
+#### The impact of nutrition on mental health in different populations
+#### The role of nutrition in promoting positive mental health
+### The role of nutrition in the promotion of emotional health
+#### The role of nutrition in the prevention of mental health disorders
+#### The role of nutrition in the treatment of mental health disorders
+#### The role of nutrition in the promotion of positive mental health
+#### The impact of nutrition on cognitive functioning
+#### The role of nutrition in the prevention of stress and anxiety
+### The role of nutrition in the promotion of overall well-being
+#### The importance of a balanced diet
+#### The role of vitamins and minerals in health
+#### The impact of nutrition on physical health
+#### The impact of nutrition on mental health
+#### Nutrition and lifestyle choices
+## Develop an understanding of the role of nutrition in the prevention and treatment of obesity.
+### The role of nutrition in the prevention of obesity.
+#### The role of diet in the prevention of obesity.
+#### The role of physical activity in the prevention of obesity.
+#### The role of genetics in the prevention of obesity.
+#### The role of lifestyle factors in the prevention of obesity.
+#### The role of environmental factors in the prevention of obesity.
+### The role of nutrition in the treatment of obesity.
+#### The role of diet in the prevention of obesity.
+#### The role of physical activity in the prevention of obesity.
+#### The role of lifestyle changes in the treatment of obesity.
+#### The role of medications in the treatment of obesity.
+#### The role of surgery in the treatment of obesity.
+### The impact of nutrition on obesity.
+#### The role of diet in obesity.
+#### The role of physical activity in obesity.
+#### The role of genetics in obesity.
+#### The role of lifestyle factors in obesity.
+#### The role of environmental factors in obesity.
+### Nutrition and lifestyle changes for obesity prevention.
+#### Healthy Eating Habits
+#### Physical Activity
+#### Stress Management
+#### Sleep Habits
+#### Alcohol Consumption
+### Nutrition and lifestyle changes for obesity treatment.
+#### Healthy Eating Habits
+#### Physical Activity
+#### Behavioral Changes
+#### Medication and Surgery
+#### Psychological Support

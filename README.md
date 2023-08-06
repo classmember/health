@@ -257,8 +257,6 @@ Nutrition and metabolism are intricately connected processes in the body. Essent
 
 ### Nutrition Assessment
 
-![Waiting room](img/pexels-pixabay-236380.jpg "Waiting room from https://www.pexels.com/photo/bed-empty-equipments-floor-236380/")
-
 The journey to optimal health begins with understanding the nutritional status of an individual. A comprehensive nutrition assessment provides insights into dietary habits, nutritional deficiencies, and potential health risks. Further, the diagnosis determines any underlying causes of malnutrition or other nutrition-related health issues. 
 
 #### Nutrition Screening
@@ -343,6 +341,8 @@ The journey to optimal health begins with understanding the nutritional status o
 ---
 
 ### Nutrition Diagnosis
+
+![Waiting room](img/pexels-pixabay-236380.jpg "Waiting room from https://www.pexels.com/photo/bed-empty-equipments-floor-236380/")
 
 Think of Nutrition Diagnosis as a detective's deduction after collecting all the clues. It's the determination or identification of a nutrition-related problem that dietitians can address. A clear diagnosis sets the stage for targeted interventions and a roadmap to better health.
 

@@ -2,7 +2,7 @@
 General Health Information
 
 ---
-- [Health](https://github.com/classmember/health#health)
+- [Health](https://github.com/classmember/health#health-1)
   - [Understand the principles of clinical nutrition and diagnosis.](https://github.com/classmember/health#understand-the-principles-of-clinical-nutrition-and-diagnosis.)
     - [Nutrition and Metabolism](https://github.com/classmember/health#nutrition-and-metabolism)
       - [Metabolism](https://github.com/classmember/health#metabolism)

@@ -2,9 +2,7 @@
 General Health Information
 
 ---
-- [Topic:](https://github.com/classmember/health#topic:)
-  - [Advanced Clinical nutrition and diagnosis: PhD guide](https://github.com/classmember/health#advanced-clinical-nutrition-and-diagnosis:-phd-guide)
-- [Objectives:](https://github.com/classmember/health#objectives:)
+- [Health](https://github.com/classmember/health#health)
   - [Understand the principles of clinical nutrition and diagnosis.](https://github.com/classmember/health#understand-the-principles-of-clinical-nutrition-and-diagnosis.)
     - [Nutrition and Metabolism](https://github.com/classmember/health#nutrition-and-metabolism)
       - [Metabolism](https://github.com/classmember/health#metabolism)
@@ -163,9 +161,10 @@ General Health Information
 
 ---
 
-# Topic:
-## Advanced Clinical nutrition and diagnosis: PhD guide
-# Objectives:
+# Health
+
+General Health Information
+
 ## Understand the principles of clinical nutrition and diagnosis.
 
 This section delves into the intricate nuances of clinical nutrition, emphasizing the metabolic processes governing nutrient uptake, regulation, and transport. A systematic approach to nutrition assessment is advocated, highlighting the stages from screening to evaluation. It presents comprehensive diagnostic tools and methodologies followed by varied intervention strategies ranging from nutrition education to monitoring. The chapter concludes with a detailed study of monitoring and evaluating techniques that encompass a vast array of topics, from surveillance to program management.

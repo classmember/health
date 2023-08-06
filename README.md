@@ -28,12 +28,6 @@ General Health Information
       - [Nutrition Screening](https://github.com/classmember/health#nutrition-screening)
       - [Nutrition Monitoring](https://github.com/classmember/health#nutrition-monitoring)
       - [Nutrition Support](https://github.com/classmember/health#nutrition-support)
-    - [Nutrition Monitoring and Evaluation](https://github.com/classmember/health#nutrition-monitoring-and-evaluation)
-      - [Nutrition Surveillance](https://github.com/classmember/health#nutrition-surveillance)
-      - [Nutrition Assessment](https://github.com/classmember/health#nutrition-assessment)
-      - [Nutrition Intervention](https://github.com/classmember/health#nutrition-intervention)
-      - [Nutrition Evaluation](https://github.com/classmember/health#nutrition-evaluation)
-      - [Nutrition Program Monitoring](https://github.com/classmember/health#nutrition-program-monitoring)
   - [Develop an understanding of the role of nutrition in the prevention and treatment of disease.](https://github.com/classmember/health#develop-an-understanding-of-the-role-of-nutrition-in-the-prevention-and-treatment-of-disease.)
     - [The role of nutrition in the prevention of disease](https://github.com/classmember/health#the-role-of-nutrition-in-the-prevention-of-disease)
       - [The role of nutrition in the prevention of cardiovascular disease](https://github.com/classmember/health#the-role-of-nutrition-in-the-prevention-of-cardiovascular-disease)
@@ -434,12 +428,6 @@ Empowering you with knowledge.
 
 **Nutrition Support** refers to specialized medical interventions to maintain or improve an individual's nutritional status when their usual dietary intake is insufficient. This can be in the form of enteral nutrition (tube feeding) or parenteral nutrition (nutrition directly provided into the bloodstream). This section would detail the indications, methodologies, complications, and monitoring related to these advanced nutritional therapies.
 
-### Nutrition Monitoring and Evaluation
-#### Nutrition Surveillance
-#### Nutrition Assessment
-#### Nutrition Intervention
-#### Nutrition Evaluation
-#### Nutrition Program Monitoring
 ## Develop an understanding of the role of nutrition in the prevention and treatment of disease.
 
 The vital role of nutrition in preventing a spectrum of diseases like cardiovascular disorders, cancer, diabetes, obesity, and other chronic conditions is thoroughly explored. Furthermore, the significance of nutrition in treating diseases is underlined, emphasizing its pivotal role in acute illnesses, chronic disease management, recovery, and overall health maintenance. A notable focus is given to the correlation between nutrition and the immune system, presenting insights into the influence of dietary components like fats, vitamins, minerals, probiotics, prebiotics, and antioxidants. Additionally, the interplay between nutrition and chronic diseases, as well as mental health across various age groups and environments, is scrutinized.

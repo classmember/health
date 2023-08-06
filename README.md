@@ -261,7 +261,7 @@ Nutrition and metabolism are intricately connected processes in the body. Essent
 
 ### Nutrition Assessment
 
-![Waiting room](img/pexels-jane-doan-1128678.jpg "Waiting room from https://www.pexels.com/photo/bed-empty-equipments-floor-236380/")
+![Waiting room](img/pexels-pixabay-236380.jpg "Waiting room from https://www.pexels.com/photo/bed-empty-equipments-floor-236380/")
 
 The journey to optimal health begins with understanding the nutritional status of an individual. A comprehensive nutrition assessment provides insights into dietary habits, nutritional deficiencies, and potential health risks. Further, the diagnosis determines any underlying causes of malnutrition or other nutrition-related health issues. 
 
